@@ -5,7 +5,7 @@ Ele identifica automaticamente textos do **Hunt Analyzer** e **Party Hunt**, ger
 
 ## 📦 Baixe a versão mais recente do **AutoShare** no link abaixo:
 
-[📦 **Clique aqui para baixar o AutoShare.exe**](https://github.com/Grodrigues1998/AutoShare/AutoShareInstaller.exe)
+[📦 **Clique aqui para baixar o AutoShare.exe**](https://github.com/Grodrigues1998/AutoShare/releases/download/v1.0/AutoShareInstaller.exe)
 
 ## ✨ Funcionalidades
 
