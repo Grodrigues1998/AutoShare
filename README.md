@@ -3,6 +3,10 @@
 **AutoShare** é um aplicativo Windows com ícone na bandeja que monitora a área de transferência e processa automaticamente relatórios de hunts do jogo **Tibia**.  
 Ele identifica automaticamente textos do **Hunt Analyzer** e **Party Hunt**, gera arquivos CSV com o histórico e até divide o loot de forma justa entre os integrantes.
 
+## 📦 Baixe a versão mais recente do **AutoShare** no link abaixo:
+
+[📦 **Clique aqui para baixar o AutoShare.exe**](https://github.com/Grodrigues1998/AutoShare/AutoShare.exe)
+
 ## ✨ Funcionalidades
 
 - 📋 **Monitoramento automático** da área de transferência.
