@@ -4,7 +4,7 @@
 Ele reconhece textos do **Hunt Analyzer** e **Party Hunt**, gera históricos organizados em CSV e faz a divisão de loot de forma justa.
 
 ## 📦 Baixe a versão mais recente
-[📥 **Clique aqui para baixar o AutoShareInstaller.exe**](https://github.com/Grodrigues1998/AutoShare/releases/download/v1.1.0/AutoShareInstaller.exe)
+[📥 **Clique aqui para baixar o AutoShareInstaller.exe**](https://github.com/Grodrigues1998/AutoShare/releases/download/v1.1.1/AutoShareInstaller.exe)
 
 ## ✨ Funcionalidades
 
